@@ -59,7 +59,7 @@ def pickACard(Arun, Rohan, Sachin, Beesh):
     
 #%%
 
-finish_line = 10
+finish_line = 8
 
 print()
 
